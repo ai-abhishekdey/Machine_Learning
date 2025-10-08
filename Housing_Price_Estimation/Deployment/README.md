@@ -74,7 +74,7 @@ docker rmi -f <image-id>
 
 1. [AWS EC2 Instance](AWS_EC2/README.md)
 
-
+2. [AWS Lightsail](AWS_Lightsail/README.md)
 
 ### Reference
 

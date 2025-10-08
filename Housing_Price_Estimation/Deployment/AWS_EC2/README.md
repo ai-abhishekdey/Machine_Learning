@@ -66,7 +66,7 @@
 </p>
 
 
-12. Go to **instances** and connect to **instance**
+12. Go to **instances** and **connect** to instance
 
 <p align="left">
 <img src="images/12.png" width="900" height="200">
