@@ -27,9 +27,9 @@ https://www.kaggle.com/datasets/sukhmandeepsinghbrar/housing-price-dataset
 
 ### Notebooks:
 
-* [Exploratory Data Analysis (EDA)]('notebooks/eda.ipynb')
+* [Exploratory Data Analysis (EDA)](notebooks/eda.ipynb)
 
-* [Experiments]('notebooks/experiments.ipynb')
+* [Experiments](notebooks/experiments.ipynb)
 
 ### Model Training
 
@@ -46,7 +46,7 @@ python3 src/eval.py
 
 ```
 
-### Terminal-1 : Run FastAPI backend 
+### Terminal-1 : Run FastAPI backend  (Backend)
 
 ```
 
@@ -54,7 +54,7 @@ uvicorn src.api:app --host 0.0.0.0 --port 8000
 
 ```
 
-### Terminal-2 : Run Streamlit app 
+### Terminal-2 : Run Streamlit app (Frontend)
 
 ```
 streamlit run app.py
