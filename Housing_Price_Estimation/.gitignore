@@ -4,4 +4,4 @@ __pycache__/
 Thumbs.db
 mlartifacts/
 mlruns/
-artifacts/
+.~lock.test.csv#
