@@ -2,6 +2,9 @@
 
 **Author: Abhishek Dey**
 
+### About:
+
+This project is an exploration of a simple linear regression Housing Price Estimation project. The goal of this project is to demonstrate an AI application from **Notebook to Production**. I started this project with downloading the data from kaggle, Performed **automated EDA** and **feature selection**, Experimented model training with **MLflow Integration**. Then created a **Streamlit** app as front-end and **FastAPI** as backend. Then containerised the app using **Docker** and pushed the image to **Docker-hub**. Finally deployed the docker container in **AWS, AZURE and GOOGLE** cloud platforms 
 
 ### Create virtual environment
 
@@ -60,3 +63,8 @@ uvicorn src.api:app --host 0.0.0.0 --port 8000
 streamlit run app.py
 
 ```
+
+### Deployment:
+
+
+* Navigate to [Deployment](Deployment/README.md)
