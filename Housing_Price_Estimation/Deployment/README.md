@@ -76,19 +76,7 @@ docker rmi -f <image-id>
 
 2. [AWS Lightsail](AWS_Lightsail/README.md)
 
-### Reference
+3. [Google Cloud Run](Google_Cloud_Run/README.md)
 
-
-
-* https://www.youtube.com/watch?v=pJ_nCklQ65w
-
-
-## Note: Try out
-
-```
-1. EC2 instance 2. Lightsail 3. Elastic Beanstalk 4. ECS
-
-```
-
-
+4. [Microsoft Azure Container Apps](Azure_Container_Apps/README.md)
 
