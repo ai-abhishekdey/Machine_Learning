@@ -27,6 +27,10 @@ https://www.kaggle.com/datasets/uciml/glass
 
 ```
 
+## Experimentation
+
+* Follow the steps in the [Notebook](mlflow_experiments.ipynb)
+
 ## Launch MLflow UI on local host
 
 ```
